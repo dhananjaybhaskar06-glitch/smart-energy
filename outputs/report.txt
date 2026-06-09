@@ -1,0 +1,6 @@
+
+SMART ENERGY REPORT
+
+Total Energy Used: 0.0011 kWh
+Total Cost: 0.01 INR
+Maximum Power: 1110.90 W
